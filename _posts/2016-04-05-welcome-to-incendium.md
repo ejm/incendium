@@ -6,6 +6,7 @@ date: 2016-04-05T00:00:00.000Z
 author: Evan Markowitz
 ---
 
+Want to come to Incendium, here's a quick peak at all of our attractions! 
 
 ## Be Our Guest
 
