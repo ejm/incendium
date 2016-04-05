@@ -1,0 +1,21 @@
+# Site settings
+title: Incendium
+header-img: img/home-bg.jpg
+email: evan@linux.com
+copyright_name: Evan Markowitz
+description: "Incendium is the ultimate in hellish, flying cities!  Come visit us today, you'll never want to leave!"
+baseurl: ""
+url: "http://incendium.city"
+#twitter_username: 
+#github_username:  
+#facebook_username:  
+email_username: evan@linux.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
