@@ -4,9 +4,8 @@ layout: post
 title: "Welcome to Incendium, Population YOU"
 date: 2016-04-05T00:00:00.000Z
 author: Evan Markowitz
+description: "Want to come to Incendium, here's a quick peek at all of our attractions!"
 ---
-
-Want to come to Incendium, here's a quick peek at all of our attractions! 
 
 ## Be Our Guest
 
