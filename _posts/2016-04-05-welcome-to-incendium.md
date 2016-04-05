@@ -16,8 +16,10 @@ _A Willing Participant!_
 
 Come ride along with the Flying Dutchman as you exolore the city.  See our Boiling Blood Hot Springs and relax a while, and when you have to go home, you'll never want to leave!
 
-> We loved with a love that was more than love - The New York Times
+> We loved with a love that was more than love
+> - The New York Times
 
-> Guys, LET ME OUT! - FOX News
+> Guys, LET ME OUT!
+> - FOX News
 
 Once you come in, you'll never come out, so enjoy your stay at Incendium!
